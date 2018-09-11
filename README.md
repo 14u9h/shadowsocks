@@ -26,12 +26,12 @@ Debian / Ubuntu:
 CentOS:
 
     yum install python-setuptools && easy_install pip
-    pip install git+https://github.com/shadowsocks/shadowsocks.git@master
+    pip install git+https://github.com/14u9h/shadowsocks.git@master
 
 For CentOS 7, if you need AEAD ciphers, you need install libsodium
 ```
 dnf install libsodium python34-pip
-pip3 install  git+https://github.com/shadowsocks/shadowsocks.git@master
+pip3 install  git+https://github.com/14u9h/shadowsocks.git@master
 ```
 Linux distributions with [snap](http://snapcraft.io/):
 
@@ -39,7 +39,7 @@ Linux distributions with [snap](http://snapcraft.io/):
 
 Windows:
 
-See [Install Shadowsocks Server on Windows](https://github.com/shadowsocks/shadowsocks/wiki/Install-Shadowsocks-Server-on-Windows).
+See [Install Shadowsocks Server on Windows](https://github.com/14u9h/shadowsocks/wiki/Install-Shadowsocks-Server-on-Windows).
 
 ### Usage
 
@@ -67,7 +67,7 @@ like this:
     
 ### Usage with Config File
 
-[Create configuration file and run](https://github.com/shadowsocks/shadowsocks/wiki/Configuration-via-Config-File)
+[Create configuration file and run](https://github.com/14u9h/shadowsocks/wiki/Configuration-via-Config-File)
 
 To start:
 
@@ -77,7 +77,7 @@ To start:
 Documentation
 -------------
 
-You can find all the documentation in the [Wiki](https://github.com/shadowsocks/shadowsocks/wiki).
+You can find all the documentation in the [Wiki](https://github.com/14u9h/shadowsocks/wiki).
 
 License
 -------
