@@ -21,7 +21,7 @@ Server
 Debian / Ubuntu:
 
     apt-get install python-pip
-    pip install git+https://github.com/shadowsocks/shadowsocks.git@master
+    pip install git+https://github.com/14u9h/shadowsocks.git@master
 
 CentOS:
 
@@ -95,3 +95,5 @@ Apache License
 [PyPI version]:      https://img.shields.io/pypi/v/shadowsocks.svg?style=flat
 [Travis CI]:         https://travis-ci.org/shadowsocks/shadowsocks
 
+-------------------------------------------------------------------------------------------
+拉取防止和谐与
